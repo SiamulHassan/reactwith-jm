@@ -1,0 +1,12 @@
+.product_container1 {
+  display: flex;
+  border-bottom: 1px solid rgb(224, 224, 224);
+}
+.product_btn {
+  width: 125px;
+  background: rgb(230, 188, 4);
+  border-radius: 10px;
+  line-height: 27px;
+  border: none;
+  cursor: pointer;
+}
